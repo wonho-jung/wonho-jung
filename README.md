@@ -3,8 +3,8 @@
 About me
 
 I'm a passionate Front-End developer. Love to make new things with new technology.
-- 🔭 I'm currently working on review my project for making clean and get better code.
-- 🌱 I’m currently learning TypeScript, React, Redux.
+- 🔭 I'm currently working on new project.
+- 🌱 I’m currently learning TypeScript,Redux.
 - 🤔 I’m looking for help with code review.
 - 📫 How to reach me: won9.developer@gmail.com
 - 😄 Pronouns: he/him.

@@ -6,7 +6,7 @@ I'm a passionate Front-End developer. Love to make new things with new technolog
 - 🔭 I'm currently working on new project.
 - 🌱 I’m currently learning TypeScript,Redux.
 - 🤔 I’m looking for help with code review.
-- 📫 How to reach me: won9.developer@gmail.com
+- 📫 How to reach me: wonho.jung92@gmail.com
 - 😄 Pronouns: he/him.
 
 

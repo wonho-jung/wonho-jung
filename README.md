@@ -3,8 +3,6 @@
 About me
 
 I'm a passionate Front-End developer. Love to make new things with new technology.
-- 🔭 I'm currently working on new project.
-- 🌱 I’m currently learning TypeScript,Redux.
 - 🤔 I’m looking for a new job.
 - 📫 How to reach me: wonho.jung92@gmail.com
 - 😄 Pronouns: he/him.

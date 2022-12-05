@@ -4,7 +4,7 @@ About me
 
 I'm a passionate Front-End developer. Love to make new things with new technology.
 - 🤔 I’m looking for a new job.
-- 📫 How to reach me: wonho.jung92@gmail.com
+- 📫 How to reach me: samjung.dev@gmail.com
 - 😄 Pronouns: he/him.
 
 
